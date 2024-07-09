@@ -1,5 +1,7 @@
 Hi, I'm Josh! I'm a full stack web developer. 
 
+Some of the main tools I use include React, Astro, Tailwind, Node, Laravel, and WordPress
+
 Here are some of my projects:
 
 ## 📖 BookShelf
@@ -42,3 +44,9 @@ WordPress site with custom theme for local cycling enthusiast group
 WordPress site with a custom theme for a local personal trainer
 
 [Live Site](https://vitality-fitness.ca)
+
+## 💰 Cashflo
+A personal budgeting web app made with plain old PHP and MYSQL. I made a basic custom router and MVC class from scratch for this project.
+
+[Repo](https://github.com/kaye360/CashFlo)
+
