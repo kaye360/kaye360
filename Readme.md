@@ -1,4 +1,6 @@
-Some of my projects:
+Hi, I'm Josh! I'm a full stack web developer. 
+
+Here are some of my projects:
 
 ## BookShelf:
 React, Typescript, Laravel
