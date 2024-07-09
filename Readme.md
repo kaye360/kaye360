@@ -17,5 +17,6 @@ Website for a local homestay business. Made with Astro.
 
 ## 🖌️ Pink Art Witch
 Website for a local artist and writer. Made with Astro.
+
 [Repo](https://github.com/kaye360/pinkartwitch)
 [Live Site](https://pinkartwitch.com)
