@@ -13,4 +13,4 @@ React, Typescript, Laravel, Google Books API
 Website for a local homestay business. Made with Astro.
 
 [Repo](https://github.com/kaye360/elite-canadian-homestay)
-[Live Site](https://elitecanadianhomestay.com)
+[Live Site](https://elitehomestay.com)
