@@ -41,4 +41,4 @@ WordPress site with custom theme for local cycling enthusiast group
 ## 💪🏻 Vitality Fitness
 WordPress site with a custom theme for a local personal trainer
 
-[Live Site)(https://vitality-fitness.ca)
+[Live Site](https://vitality-fitness.ca)
