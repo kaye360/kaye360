@@ -16,7 +16,29 @@ Website for a local homestay business. Made with Astro.
 [Live Site](https://elitehomestay.com)
 
 ## 🖌️ Pink Art Witch
-Website for a local artist and writer. Made with Astro.
+Website for a local artist and writer. Made with Astro and headless Sanity CMS
 
 [Repo](https://github.com/kaye360/pinkartwitch)
 [Live Site](https://pinkartwitch.com)
+
+## ⚡ Electrician Calculator
+Web app for helping electricians solve common electrical problems. Made with react and framer motion
+
+[Repo](https://github.com/kaye360/elec-calc)
+[Live Site](https://elec-calc.netlify.app/)
+
+## 🎮 React Mario
+Desktop web super mario game. Made with React
+
+[Repo](https://github.com/kaye360/react-mario)
+[Live Site](https://react-mario.netlify.app/)
+
+## 🚲 Tri-Cities Bikes and Brews
+WordPress site with custom theme for local cycling enthusiast group
+
+[Live Site](https://bikesandbrews.ca)
+
+## 💪🏻 Vitality Fitness
+WordPress site with a custom theme for a local personal trainer
+
+[Live Site)(https://vitality-fitness.ca)
