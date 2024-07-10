@@ -1,6 +1,13 @@
 Hi, I'm Josh! I'm a full stack web developer. 
 
-Some of the main tools I use include React, Astro, Tailwind, Node, Laravel, and WordPress
+Some of the main tools I use include:
+- React
+- Astro
+- Typescript
+- Tailwind
+- Node
+- Laravel
+- WordPress
 
 Here are some of my projects:
 
